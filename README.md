@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grEmsIsY
+- 👋 Hi, I’m @gremsisy
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
